@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021 BfaCore Reforged
+ * Copyright (C) 2022 BfaCore Reforged
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
@@ -427,6 +427,7 @@ enum CharacterDatabaseStatements : uint32
     CHAR_UPD_CHARACTER_CAMP_X,
     CHAR_UPD_CHARACTER_CAMP_Y,
     CHAR_UPD_CHARACTER_CAMP_Z,
+    CHAR_UPD_CHARACTER_CAMP_O,
     CHAR_UPD_CHARACTER_CAMP_MAPID,
     CHAR_SEL_CHARACTER_CAMP,
 
